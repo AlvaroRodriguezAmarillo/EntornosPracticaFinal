@@ -61,7 +61,7 @@ public class Domador {
 
 	
 	 /**
-     * Este método comprueba si uno de los 3 digimones ha sido capturado 
+     * Este método comprueba si alguno de los 3 digimones ha sido capturado 
      * 
      * @param nombre Nombre del digimon que va a ser comprobado
      * @return Devuelve true si el digimon ha sido capturado o false sino lo ha sido
